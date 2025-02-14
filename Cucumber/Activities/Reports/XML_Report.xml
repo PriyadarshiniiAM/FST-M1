@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="8.381" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Data driven test with Examples" name="Testing with Data from Scenario - #1.1" time="3.56">
+<system-out><![CDATA[
+Given the user is on the login page.........................................passed
+When the user enters "admin" and "password".................................passed
+And clicks the submit button................................................passed
+Then get the confirmation text and verify message as "Welcome Back, Admin!".passed
+]]></system-out>
+</testcase>
+</testsuite>
